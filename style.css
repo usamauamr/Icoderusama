@@ -1,0 +1,9 @@
+.carousel-item img{
+   max-height:500px;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    box-sizing: 30px 30px;
+    background-color: rgb(146, 135, 135);
+    border-radius: 10px;
+    padding: 20px;
+}
